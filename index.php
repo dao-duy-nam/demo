@@ -1,3 +1,3 @@
 <?php
-echo "helo nam";
+echo "helo 2";
 ?>
